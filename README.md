@@ -1,0 +1,1 @@
+O exercício consistia em criar uma classe "Vídeo" e uma classe "Gafanhoto", que por sua vez era uma subclasse de uma classe abstrata "Pessoa", realcionando elas atraves de uma treceria classe "Visualização".
